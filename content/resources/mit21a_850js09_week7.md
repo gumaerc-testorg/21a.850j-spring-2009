@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 8650da7b-c49d-e700-7f3a-ccb6fc73925c
 resourcetype: Document
 title: Week 7
 uid: 59d858fa-3b83-d19e-4f46-c3dad7429982
