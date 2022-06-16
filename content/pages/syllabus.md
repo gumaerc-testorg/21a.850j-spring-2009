@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This syllabus section provides and overview of the course and information
+  on teaching approach, meeting times, on-line facilities, texts, and grading.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -21,7 +23,7 @@ Teaching Approach
 
 The course will be conducted as a graduate reading seminar – with contextualizing comments by the instructor followed by student-led discussion of readings. Each week two students will be asked to lead the discussion. Active participation in discussions based on reading, related studies and/or experiences is expected. Be sure to bring marked-up copies of required readings to class.
 
-Each week we'll discuss the [required readings]({{< baseurl >}}/pages/readings) intensively and in relation to each other. The emphasis here is on careful reading rather than quantity; that is, the assignments are not extensive in terms of pages so that you have time to read closely and think about what you're reading. There are also [supplementary readings]({{< baseurl >}}/pages/readings) provided for each week that you can draw on for your Final Projects (see [Assignments]({{< baseurl >}}/pages/assignments)).
+Each week we'll discuss the {{% resource_link b9430604-3b59-8cdb-a991-cf3fac5896c1 "required readings" %}} intensively and in relation to each other. The emphasis here is on careful reading rather than quantity; that is, the assignments are not extensive in terms of pages so that you have time to read closely and think about what you're reading. There are also {{% resource_link b9430604-3b59-8cdb-a991-cf3fac5896c1 "supplementary readings" %}} provided for each week that you can draw on for your Final Projects (see {{% resource_link 8650da7b-c49d-e700-7f3a-ccb6fc73925c "Assignments" %}}).
 
 On-line Facilities
 ------------------
@@ -31,7 +33,7 @@ See the class Web site for required readings and other course materials, as well
 Texts
 -----
 
-Required readings will be made available on the [class Web site]({{< baseurl >}}/pages/readings), however these are books that we'll be drawing from that would make good additions to your library if you're interested in these topics.
+Required readings will be made available on the {{% resource_link b9430604-3b59-8cdb-a991-cf3fac5896c1 "class Web site" %}}, however these are books that we'll be drawing from that would make good additions to your library if you're interested in these topics.
 
 ### Required
 
