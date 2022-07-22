@@ -5,6 +5,7 @@ file: /courses/21a-850j-the-anthropology-of-cybercultures-spring-2009/af24ee0491
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Week 2
 uid: af24ee04-9151-00c4-c1b4-e9c97586ec8a
 ---
 Student responses to a reading assignment on automata ancestries.
-

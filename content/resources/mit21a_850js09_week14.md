@@ -5,6 +5,7 @@ file: /courses/21a-850j-the-anthropology-of-cybercultures-spring-2009/eb9748a7fa
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Week 14
 uid: eb9748a7-fa9d-d6ce-eedc-144436fbafa1
 ---
 Student responses to a reading assignment on sociomaterial re(con)figurations.
-

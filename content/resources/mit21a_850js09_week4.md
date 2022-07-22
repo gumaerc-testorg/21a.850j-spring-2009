@@ -6,6 +6,7 @@ file: /courses/21a-850j-the-anthropology-of-cybercultures-spring-2009/cdeae71cb0
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Week 4
 uid: cdeae71c-b0a4-0424-0cc6-79a7c89fca3e
 ---
 Student responses to a reading assignment on cybernetics, cold wars, and closed worlds.
-

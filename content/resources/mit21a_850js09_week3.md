@@ -5,6 +5,7 @@ file: /courses/21a-850j-the-anthropology-of-cybercultures-spring-2009/8f7a55aad0
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Week 3
 uid: 8f7a55aa-d0e9-0bfb-b09f-0d173b497bdb
 ---
 Student responses to a reading assignment on automation.
-

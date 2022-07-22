@@ -6,6 +6,7 @@ file: /courses/21a-850j-the-anthropology-of-cybercultures-spring-2009/59d858fa3b
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Week 7
 uid: 59d858fa-3b83-d19e-4f46-c3dad7429982
 ---
 Student responses to a reading assignment on bioinformatics and artificial life.
-
