@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides information on the research project and reading
+  response assignments of the course along with examples of student work.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 8650da7b-c49d-e700-7f3a-ccb6fc73925c
 ---
@@ -45,7 +50,7 @@ None
 Automata ancestries
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21a_850js09_week2))
+({{% resource_link af24ee04-9151-00c4-c1b4-e9c97586ec8a "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -57,7 +62,7 @@ Automata ancestries
 Automation
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21a_850js09_week3))
+({{% resource_link 8f7a55aa-d0e9-0bfb-b09f-0d173b497bdb "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -69,7 +74,7 @@ Automation
 Cybernetics, cold wars and closed worlds
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21a_850js09_week4))
+({{% resource_link cdeae71c-b0a4-0424-0cc6-79a7c89fca3e "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -81,7 +86,7 @@ Cybernetics, cold wars and closed worlds
 Cybergeographies, cyberpolitics and postcolonial computing
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21a_850js09_week5))
+({{% resource_link 6502e604-bd50-f9fc-7c33-0cf0aec2eb82 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -105,7 +110,7 @@ None
 Bioinformatics and artificial life
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21a_850js09_week7))
+({{% resource_link 59d858fa-3b83-d19e-4f46-c3dad7429982 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -117,7 +122,7 @@ Bioinformatics and artificial life
 Virtual identities and second lives
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21a_850js09_week8))
+({{% resource_link 9eb56695-0b6d-8854-a37a-2fbcd63e51e4 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -129,7 +134,7 @@ Virtual identities and second lives
 Cyborgs and technobodies
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21a_850js09_week9))
+({{% resource_link 4cc5f2e5-0c15-eb82-2de5-b5ac6301079a "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -141,7 +146,7 @@ Cyborgs and technobodies
 Ubiquitous, mobile and ambient computing
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21a_850js09_week10))
+({{% resource_link 355fe70c-6a88-71a1-8d27-d9a5554b9a45 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -153,7 +158,7 @@ Ubiquitous, mobile and ambient computing
 Making machines: inside the R&D lab
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21a_850js09_week11))
+({{% resource_link 365dc3de-b682-e482-5f58-514d63bea84b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -177,7 +182,7 @@ None
 Computing and social movements/Geeks and hactivists
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21a_850js09_week13))
+({{% resource_link e0314693-a0d3-9366-9101-3b178bc03d7b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -189,7 +194,7 @@ Computing and social movements/Geeks and hactivists
 Sociomaterial re(con)figurations
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21a_850js09_week14))
+({{% resource_link eb9748a7-fa9d-d6ce-eedc-144436fbafa1 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -241,8 +246,8 @@ Student Papers
 
 "[On-Object: a Ubiquitous Tangible User Interface.](http://on-object.com/)"
 
-"Connections: the double interface and constructing the cyborg body." ([PDF]({{< baseurl >}}/resources/mit21a_850js09_sw01))
+"Connections: the double interface and constructing the cyborg body." ({{% resource_link b590a56b-2373-181f-58de-d8332ec2a340 "PDF" %}})
 
-"Alternative Narratives of Nighttime and Illumination: An Exploration of Central Square in Cambridge, MA." ([PDF ‑ 1.6MB]({{< baseurl >}}/resources/mit21a_850js09_sw02))
+"Alternative Narratives of Nighttime and Illumination: An Exploration of Central Square in Cambridge, MA." ({{% resource_link 77e58131-babf-341f-bcb3-ae65cc8da94a "PDF ‑ 1.6MB" %}})
 
-"Site Visit Tools." ([PDF]({{< baseurl >}}/resources/mit21a_850js09_sw03))
+"Site Visit Tools." ({{% resource_link a82686d8-5406-6032-4c89-fe3b4a5c28a1 "PDF" %}})
