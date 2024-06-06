@@ -3,6 +3,7 @@ content_type: resource
 description: Student responses to a reading assignment on computing, social movements,
   geeks, and hactivists.
 file: /courses/21a-850j-the-anthropology-of-cybercultures-spring-2009/e0314693a0d3936691013b178bc03d7b_MIT21A_850Js09_week13.pdf
+file_size: 110786
 file_type: application/pdf
 learning_resource_types:
 - Assignments

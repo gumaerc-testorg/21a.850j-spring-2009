@@ -2,6 +2,7 @@
 content_type: resource
 description: Student responses to a reading assignment on cyborgs and technobodies.
 file: /courses/21a-850j-the-anthropology-of-cybercultures-spring-2009/4cc5f2e50c15eb822de5b5ac6301079a_MIT21A_850Js09_week9.pdf
+file_size: 104539
 file_type: application/pdf
 learning_resource_types:
 - Assignments
