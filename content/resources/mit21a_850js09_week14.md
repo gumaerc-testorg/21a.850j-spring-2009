@@ -2,6 +2,7 @@
 content_type: resource
 description: Student responses to a reading assignment on sociomaterial re(con)figurations.
 file: /courses/21a-850j-the-anthropology-of-cybercultures-spring-2009/eb9748a7fa9dd6ceeedc144436fbafa1_MIT21A_850Js09_week14.pdf
+file_size: 92313
 file_type: application/pdf
 learning_resource_types:
 - Assignments
