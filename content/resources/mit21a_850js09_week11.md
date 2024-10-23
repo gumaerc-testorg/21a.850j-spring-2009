@@ -2,7 +2,7 @@
 content_type: resource
 description: Student responses to a reading assignment on research and development
   labs.
-file: /courses/21a-850j-the-anthropology-of-cybercultures-spring-2009/365dc3deb682e4825f58514d63bea84b_MIT21A_850Js09_week11.pdf
+file: /ol-ocw-studio-app/courses/21a-850j-the-anthropology-of-cybercultures-spring-2009/365dc3deb682e4825f58514d63bea84b_MIT21A_850Js09_week11.pdf
 file_size: 126028
 file_type: application/pdf
 learning_resource_types:
