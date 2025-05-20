@@ -2,7 +2,7 @@
 content_type: resource
 description: Student responses to a reading assignment on virtual identities and second
   lives.
-file: /ol-ocw-studio-app/courses/21a-850j-the-anthropology-of-cybercultures-spring-2009/9eb566950b6d8854a37a2fbcd63e51e4_MIT21A_850Js09_week8.pdf
+file: /courses/21a-850j-the-anthropology-of-cybercultures-spring-2009/9eb566950b6d8854a37a2fbcd63e51e4_MIT21A_850Js09_week8.pdf
 file_size: 179836
 file_type: application/pdf
 learning_resource_types:

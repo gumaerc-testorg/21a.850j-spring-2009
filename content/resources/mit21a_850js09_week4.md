@@ -2,7 +2,7 @@
 content_type: resource
 description: Student responses to a reading assignment on cybernetics, cold wars,
   and closed worlds.
-file: /ol-ocw-studio-app/courses/21a-850j-the-anthropology-of-cybercultures-spring-2009/cdeae71cb0a404240cc679a7c89fca3e_MIT21A_850Js09_week4.pdf
+file: /courses/21a-850j-the-anthropology-of-cybercultures-spring-2009/cdeae71cb0a404240cc679a7c89fca3e_MIT21A_850Js09_week4.pdf
 file_size: 92686
 file_type: application/pdf
 learning_resource_types:
