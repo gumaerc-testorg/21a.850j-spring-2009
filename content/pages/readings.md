@@ -103,21 +103,21 @@ Orr, Jackie. Chapter 3 in *Panic Diaries: A Genealogy of Panic Disorder*. Durham
 
 Bateson, Gregory. "Cybernetic Explanation." In *Steps to an Ecology of Mind*. Chicago, IL: University of Chicago Press, 2000. ISBN: 9780226039053.
 
-Bush, Vannevar. "[As We May Think](http://www.theatlantic.com/doc/194507/bush)." *The Atlantic Monthly* 176 (1945): 101-108.
+Bush, Vannevar. "{{% resource_link "c79cf435-be22-4cd1-9371-2012e09ec255" "As We May Think" %}}." *The Atlantic Monthly* 176 (1945): 101-108.
 
-[Charles Babbage Institute Archives](http://www.cbi.umn.edu/)
+{{% resource_link "c93629b9-ca49-4ee2-a4c6-19855837e46f" "Charles Babbage Institute Archives" %}}
 
 Campbell-Kelley, Martin, and William Aspray. *Computer: A History of the Information Machine*. Boulder, CO: Westview Press, 2004. ISBN: 9780813342641.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262532037) Ceruzzi, Paul. [*A History of Modern Computing*](https://mitpress.mit.edu/9780262532037). Cambridge, MA: MIT Press, 2003. ISBN: 9780262532037.
+{{% resource_link "275f483a-4d8d-44b3-bf72-02a703f6be96" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Ceruzzi, Paul. {{% resource_link "275f483a-4d8d-44b3-bf72-02a703f6be96" "*A History of Modern Computing*" %}}. Cambridge, MA: MIT Press, 2003. ISBN: 9780262532037.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262550284) Edwards, Paul. [*The Closed World: Computers and the Politics of Discourse in Cold War America*](https://mitpress.mit.edu/9780262550284). Cambridge, MA: MIT Press, 1997. ISBN: 9780262550284.
+{{% resource_link "a0a4093b-b9be-42c1-8537-c710b7c369cb" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Edwards, Paul. {{% resource_link "a0a4093b-b9be-42c1-8537-c710b7c369cb" "*The Closed World: Computers and the Politics of Discourse in Cold War America*" %}}. Cambridge, MA: MIT Press, 1997. ISBN: 9780262550284.
 
-Eglash, Ron. "[Cultural Cybernetics: the Mutual Construction of People and Machines](https://roneglash.org/eglash.dir/cyb/cultcyb.dir/cultcyb.htm)." Vienna, Austria: Society for Social Studies of Science, 2000.
+Eglash, Ron. "{{% resource_link "e9ae3b39-7b20-4ee4-96d8-daf6991c07c8" "Cultural Cybernetics: the Mutual Construction of People and Machines" %}}." Vienna, Austria: Society for Social Studies of Science, 2000.
 
 Hayles, N. Katherine. *How We Became Posthuman: Virtual Bodies in Cybernetics, Literature, and Informatics*. Chicago, IL: University of Chicago Press, 1999. ISBN: 9780226321462. See especially chapter 4, "Liberal Subjectivity Imperiled: Norbert Wiener and Cybernetic Anxiety".
 
-[National Archive for the History of Computing](https://www.library.manchester.ac.uk/search-resources/special-collections/guide-to-special-collections/a-to-z/collection/?match=History+of+Computing+Collection), University of Manchester
+{{% resource_link "b8142974-0718-45a9-878b-81680d6015f6" "National Archive for the History of Computing" %}}, University of Manchester
 
 Plant, Sadie. "The Future Looms: Weaving Women and Cybernetics." *Body and Society* 1 (1995): 45-64.
 
@@ -125,7 +125,7 @@ Rosenbluth, Arturo, Norbert Wiener, and Julian Bigelow. "Behavior, Purpose and T
 
 Tomas, David. "Feedback and Cybernetics: Reimaging the Body in the Age of the Cyborg." *Body and Society* 1 (1995): 21-43.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262730099) Wiener, Norbert. [*Cybernetics: or Control and Communication in the Animal and the Machine*](https://mitpress.mit.edu/9780262730099). Cambridge, MA: MIT Press, 1965. ISBN: 9780262730099.
+{{% resource_link "91173f1a-ae36-434f-983e-7fa642dd83e4" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Wiener, Norbert. {{% resource_link "91173f1a-ae36-434f-983e-7fa642dd83e4" "*Cybernetics: or Control and Communication in the Animal and the Machine*" %}}. Cambridge, MA: MIT Press, 1965. ISBN: 9780262730099.
 
 {{< tdclose >}}{{< tdopen >}}
  
@@ -163,7 +163,7 @@ Kumar, Amitava, Alondra Nelson, Thuy Linh N. Tu, and Alicia Headlam Hines. "Temp
 
 Nelson, Diane. "Maya Hackers and the Cyberspatialized Nation-State: Modernity, Ethnostalgia, and a Lizard Queen in Guatemala." *Cultural Anthropology* 11 (1996): 287-308.
 
-Sundaram, Ravi. "Recycling Modernity: Pirate Electronic Cultures in India." In *Sarai Reader* 01: Public Domain. Delhi, India: Sarai, 2001, pp. 93-99. ([PDF](https://www.tandfonline.com/doi/abs/10.1080/09528829908576796))
+Sundaram, Ravi. "Recycling Modernity: Pirate Electronic Cultures in India." In *Sarai Reader* 01: Public Domain. Delhi, India: Sarai, 2001, pp. 93-99. ({{% resource_link "bffb1fd3-e8c8-412c-959d-c817e5a72811" "PDF" %}})
 
 {{< tdclose >}}{{< tdopen >}}
  
@@ -183,13 +183,13 @@ Adam, Alison. "The Knowing Subject in AI." Chapter 3 in *Artificial Knowing: Gen
 
 Agre, Philip. *Computation and Human Experience*. New York, NY: Cambridge University Press, 2008. ISBN: 9780521386036.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262524315) Breazeal, Cynthia. [*Designing Sociable Robots*](https://mitpress.mit.edu/9780262524315). Cambridge, MA: MIT Press, 2004. ISBN: 9780262524315.
+{{% resource_link "da9a354a-7ebc-4e59-b242-7b7bbae5e074" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Breazeal, Cynthia. {{% resource_link "da9a354a-7ebc-4e59-b242-7b7bbae5e074" "*Designing Sociable Robots*" %}}. Cambridge, MA: MIT Press, 2004. ISBN: 9780262524315.
 
 Button, Graham, Jeff Coulter, John R. Lee, and Wes Sharrock. *Computers, Minds and Conduct*. Cambridge, MA: Polity, 1995. ISBN: 9780745615714.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262531153) Collins, H. M. [*Artificial Experts: Social Knowledge and Intelligent Machines*](https://mitpress.mit.edu/9780262531153). Cambridge, MA: MIT Press, 1992. ISBN: 9780262531153.
+{{% resource_link "505228fa-0ee3-4c5d-8e24-a5da23d5936c" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Collins, H. M. {{% resource_link "505228fa-0ee3-4c5d-8e24-a5da23d5936c" "*Artificial Experts: Social Knowledge and Intelligent Machines*" %}}. Cambridge, MA: MIT Press, 1992. ISBN: 9780262531153.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262540674) Dreyfus, Hubert. [*What Computers Still Can't Do: A Critique of Artificial Reason*](https://mitpress.mit.edu/9780262540674). Cambridge, MA: MIT Press, 1992. ISBN: 9780262540674.
+{{% resource_link "3cfb4e8e-4d90-47e3-a867-bd42b94cdf31" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Dreyfus, Hubert. {{% resource_link "3cfb4e8e-4d90-47e3-a867-bd42b94cdf31" "*What Computers Still Can't Do: A Critique of Artificial Reason*" %}}. Cambridge, MA: MIT Press, 1992. ISBN: 9780262540674.
 
 Forsythe, Diana, and David J. Hess. *Studying Those Who Study Us: An Anthropologist in the World of Artificial Intelligence, Writing Science*. Stanford, CA: Stanford University Press, 2001. ISBN: 9780804742030.
 
@@ -197,7 +197,7 @@ Halberstam, Judith. "Automating Gender: Postmodern Feminism in the Age of the In
 
 Powers, Richard. *Galatea 2.2: A Novel*. New York, NY: Picador, 2004. ISBN: 9780312423131.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262083645) Suchman, Lucy. "Feminist STS and the Sciences of the Artificial." In [*The Handbook of Science and Technology Studies*](https://mitpress.mit.edu/9780262083645). 3rd ed. Edited by E. Hackett O. Amsterdamska, M. Lynch and J. Wajcman. Cambridge, MA: MIT Press, 2007, pp. 139-163. ISBN: 9780262083645.
+{{% resource_link "bde4fbe1-54a7-4564-908b-2efb7f7c8098" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Suchman, Lucy. "Feminist STS and the Sciences of the Artificial." In {{% resource_link "bde4fbe1-54a7-4564-908b-2efb7f7c8098" "*The Handbook of Science and Technology Studies*" %}}. 3rd ed. Edited by E. Hackett O. Amsterdamska, M. Lynch and J. Wajcman. Cambridge, MA: MIT Press, 2007, pp. 139-163. ISBN: 9780262083645.
 
 ———. *Human-Machine Reconfigurations*. Cambridge, UK: Cambridge University Press, 2007. ISBN: 9780521675888. See especially chapters 12 and 13.
 
@@ -243,17 +243,17 @@ Seminar prep: post a paragraph that offers a sci fi representation of cyberspace
 
 Boellstorff, Tom. *Coming of Age in Second Life*. Princeton, NJ: Princeton University Press, 2008. ISBN: 9780691135281. Chapter 1, pp. 3-31 and chapter 4, pp. 89-117.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262512626) Taylor, T. L. [*Play Between Worlds: Exploring Online Gaming Culture*](https://mitpress.mit.edu/9780262512626). Cambridge, MA: MIT Press, 2009 introduction, pp. 1-19 and chapter 4, pp. 93-124. ISBN: 9780262512626.
+{{% resource_link "d1815979-7df2-4327-9241-cb31ad406075" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Taylor, T. L. {{% resource_link "d1815979-7df2-4327-9241-cb31ad406075" "*Play Between Worlds: Exploring Online Gaming Culture*" %}}. Cambridge, MA: MIT Press, 2009 introduction, pp. 1-19 and chapter 4, pp. 93-124. ISBN: 9780262512626.
 
 ### Supplementary
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262511155) Abbate, Janet. [*Inventing the Internet*](https://mitpress.mit.edu/9780262511155). Cambridge, MA: MIT Press, 2000. ISBN: 9780262511155.
+{{% resource_link "f139deb9-cb10-48dd-b1e9-05f8523bbf72" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Abbate, Janet. {{% resource_link "f139deb9-cb10-48dd-b1e9-05f8523bbf72" "*Inventing the Internet*" %}}. Cambridge, MA: MIT Press, 2000. ISBN: 9780262511155.
 
 Bell, David. *An Introduction to Cybercultures*. London, England: Routledge, 2001. ISBN: 9780415246590.
 
 Cherny, Lynn, and Elizabeth Reba Weise. *Wired Women: Gender and New Realities in Cyberspace*. Seattle, WA: Seal Press, 1996. ISBN: 9781878067739.
 
-Dibbell, Julian. "[A Rape in Cyberspace (Or TINYSOCIETY, and How to Make One)](http://www.juliandibbell.com/texts/bungle.html)." Chapter 1 in *My Tiny Life*. New York, NY: Holt, 1998. ISBN: 9780805036268. ([Village Voice](https://www.villagevoice.com/2005/10/18/a-rape-in-cyberspace/))
+Dibbell, Julian. "{{% resource_link "2bb5ea31-59d1-49e1-bfb5-333ce72aa8d4" "A Rape in Cyberspace (Or TINYSOCIETY, and How to Make One)" %}}." Chapter 1 in *My Tiny Life*. New York, NY: Holt, 1998. ISBN: 9780805036268. ({{% resource_link "fb32a8f3-06e5-4dbb-86d6-1225fbf38250" "Village Voice" %}})
 
 Harcourt, Wendy. *Women@Internet: Creating new Cultures in Cyberspace*. London, England: Zed Press, 1999. ISBN: 9781856495721.
 
@@ -283,15 +283,15 @@ Slater, Don. "Making Things Real: Ethics and Order on the Internet." *Theory, Cu
 
 Smith, Mark, and Peter Kollock. *Communities in Cyberspace*. London, England: Routledge, 1999. ISBN: 9780415191401.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262521772) Stone, Allucquere Rosanne. "Will the Real Body Please Stand Up? Boundary Stories about Virtual Cultures." In Benedikt, M. [*Cyberspace: First Steps*](https://mitpress.mit.edu/9780262521772). Cambridge, MA: MIT Press, 1991, pp. 84-118. ISBN: 9780262521772.
+{{% resource_link "bc392164-d0b8-4edf-bd08-4dacb02e41ba" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Stone, Allucquere Rosanne. "Will the Real Body Please Stand Up? Boundary Stories about Virtual Cultures." In Benedikt, M. {{% resource_link "bc392164-d0b8-4edf-bd08-4dacb02e41ba" "*Cyberspace: First Steps*" %}}. Cambridge, MA: MIT Press, 1991, pp. 84-118. ISBN: 9780262521772.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262512626) Taylor, T. L. [*Play Between Worlds: Exploring Online Gaming Culture*](https://mitpress.mit.edu/9780262512626). Cambridge, MA: MIT Press, 2006. ISBN: 9780262512626.
+{{% resource_link "d1815979-7df2-4327-9241-cb31ad406075" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Taylor, T. L. {{% resource_link "d1815979-7df2-4327-9241-cb31ad406075" "*Play Between Worlds: Exploring Online Gaming Culture*" %}}. Cambridge, MA: MIT Press, 2006. ISBN: 9780262512626.
 
 ———. "Does WoW Change Everything? How a PvP Server, Multinational Playerbase, and Surveillance Mod Scene Caused Me Pause." *Games & Culture* 1 (2006): 1-20.
 
 Turkle, Sherry. *Life on the Screen*. New York, NY: Simon and Schuster, 1997. ISBN: 9780684833484.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262701112) ———. [*The Second Self: Computers and the Human Spirit*](https://mitpress.mit.edu/9780262701112). 20th anniversary ed. Cambridge, MA: MIT Press, 2005. ISBN: 9780262701112.
+{{% resource_link "90ef2fb0-7435-4482-b19d-5bb29e75397c" "![Buy at MIT Press](/images/mp_logo.gif)" %}} ———. {{% resource_link "90ef2fb0-7435-4482-b19d-5bb29e75397c" "*The Second Self: Computers and the Human Spirit*" %}}. 20th anniversary ed. Cambridge, MA: MIT Press, 2005. ISBN: 9780262701112.
 
 Webb, Stephen. "Avatarculture: Narrative, Power and Identity in Virtual World Environments." *Information, Communication & Society* 4 (2001): 560-594.
 
@@ -349,13 +349,13 @@ Moore, C. L. "No Woman Born." In Scotia, Thomas, and George Zebrowski. *Human-Ma
 
 Piercy, Marge. *He, She and It*. New York, NY: Faucett, 1993. ISBN: 9780449220603.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262691895) Stone, Allucquère Rosanne. [*The War of Desire and Technology at the Close of the Mechanical Age*](https://mitpress.mit.edu/9780262691895). Cambridge, MA: MIT Press, 1995. ISBN: 9780262691895.
+{{% resource_link "52b78b0a-ef21-4fc6-99ae-396e08ae8dc8" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Stone, Allucquère Rosanne. {{% resource_link "52b78b0a-ef21-4fc6-99ae-396e08ae8dc8" "*The War of Desire and Technology at the Close of the Mechanical Age*" %}}. Cambridge, MA: MIT Press, 1995. ISBN: 9780262691895.
 
 Sundén, Jenny. "What Happened to Difference in Cyberspace? The (Re)turn of the She-Cyborg." *Feminist Media Studies* 1 (2001): 215-232.
 
 Wright, Melissa. "Desire and the Prosthetics of Supervision: A Case of Maquiladora Flexibility." *Cultural Anthropology* 16 (2001): 354-373.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262730112) Wiener, Norbert. [*God and Golem, Inc*](https://mitpress.mit.edu/9780262730112). Cambridge, MA: MIT Press, 1966, pp. 71-95. ISBN: 9780262730112.
+{{% resource_link "364e39c7-b88f-4545-911b-359858d2cbe1" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Wiener, Norbert. {{% resource_link "364e39c7-b88f-4545-911b-359858d2cbe1" "*God and Golem, Inc*" %}}. Cambridge, MA: MIT Press, 1966, pp. 71-95. ISBN: 9780262730112.
 
 {{< tdclose >}}{{< tdopen >}}
  
@@ -369,7 +369,7 @@ Ubiquitous, mobile and ambient computing
 
 Green, Nicola. "On the Move: Technology, Mobility, and the Mediation of Social Time and Space." *The Information Society* 18 (2002): 281-292.
 
-Ito, Mimi, Daisuke Okabe, and Ken Anderson. "Portable Objects in Three Global Cities: The Personalization of Urban Places." In *The Reconstruction of Space and Time Through Mobile Communication Practices*. Edited by R. Ling and S. Campbell. New Brunswick, NJ: Transaction Books, 2008. ISBN: 9781412808095. ([PDF](http://www.itofisher.com/mito/portableobjects.pdf))
+Ito, Mimi, Daisuke Okabe, and Ken Anderson. "Portable Objects in Three Global Cities: The Personalization of Urban Places." In *The Reconstruction of Space and Time Through Mobile Communication Practices*. Edited by R. Ling and S. Campbell. New Brunswick, NJ: Transaction Books, 2008. ISBN: 9781412808095. ({{% resource_link "3741bacf-371d-4133-8ad7-88b2aa7d4be3" "PDF" %}})
 
 ### Supplementary
 
@@ -381,7 +381,7 @@ Bull, Michael. "The World According to Sound: Investigating the World of Walkman
 
 Humphreys, Lee. "Cellphones in Public: Social Interactions in a Wireless Era." *New Media & Society* 7 (2005): 810-833.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262590259) Ito, Mimi, Daisuke Okabe, and Misa Matsuda. [*Personal, Portable, Pedestrian: Mobile Phones in Japanese life*](https://mitpress.mit.edu/9780262590259). Cambridge, MA: MIT Press, 2006. ISBN: 9780262590259.
+{{% resource_link "729daddc-945d-42cc-95a6-29d7198b8a2a" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Ito, Mimi, Daisuke Okabe, and Misa Matsuda. {{% resource_link "729daddc-945d-42cc-95a6-29d7198b8a2a" "*Personal, Portable, Pedestrian: Mobile Phones in Japanese life*" %}}. Cambridge, MA: MIT Press, 2006. ISBN: 9780262590259.
 
 Mann, Steve, and Hal Niedzviecki. *Cyborg: Digital Destiny and Human Possibility in the Age of the Wearable Computer*. Doubleday Canada, 2001. ISBN: 9780385658256.
 
@@ -407,7 +407,7 @@ Born, Georgina. "(Im)materiality and Sociality: The Dynamics of Intellectual Pro
 
 ### Supplementary
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262522120) Bucciarelli, Lawrence. [*Designing Engineers*](https://mitpress.mit.edu/9780262522120). Cambridge, MA: MIT Press, 1996. ISBN: 9780262522120.
+{{% resource_link "e33cc56c-a5a8-41e5-9535-c3db36d2bce7" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Bucciarelli, Lawrence. {{% resource_link "e33cc56c-a5a8-41e5-9535-c3db36d2bce7" "*Designing Engineers*" %}}. Cambridge, MA: MIT Press, 1996. ISBN: 9780262522120.
 
 Button, Graham, and Wes Sharrock. "The Organizational Accountability of Technological Work." *Social Studies of Science* 28 (1998): 73-102.
 
@@ -415,13 +415,13 @@ Downey, Gary. *The Machine in Me*. London, England: Routledge, 1998. ISBN: 97804
 
 ———. "Virtual Webs, Physical Technologies and Hidden Workers." *Technology and Culture* 42 (2001): 209-235.
 
-Englebart, Douglas. "[A Research Center for Augmenting Human Intellect](https://www.dougengelbart.org/content/view/140/)." San Francisco, CA, 1968.
+Englebart, Douglas. "{{% resource_link "b5d5d807-c408-4b5c-92a6-85728f4bedd5" "A Research Center for Augmenting Human Intellect" %}}." San Francisco, CA, 1968.
 
 Hacker, Sally. *Pleasure, Power and Technology*. London, England: Routledge, 1989. ISBN: 9780044452041
 
 Helmreich, Stefan. *Silicon Second Nature: Culturing Artificial Life in a Digital World*. Berkeley, CA: University of California Press, 2000. ISBN: 9780520208001.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262082693) Henderson, Kathryn. [*On Line and On Paper: Visual Representations, Visual Culture, and Computer Graphics in Design Engineering*](https://mitpress.mit.edu/9780262082693). Cambridge, MA: MIT Press, 1998. ISBN: 9780262082693.
+{{% resource_link "a0adec6c-0f19-4e20-9759-5c510b890353" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Henderson, Kathryn. {{% resource_link "a0adec6c-0f19-4e20-9759-5c510b890353" "*On Line and On Paper: Visual Representations, Visual Culture, and Computer Graphics in Design Engineering*" %}}. Cambridge, MA: MIT Press, 1998. ISBN: 9780262082693.
 
 Kidder, Tracy. *The Soul of a New Machine*. New York, NY: Little, Brown, 2000. ISBN: 9780316491976.
 
@@ -465,7 +465,7 @@ Callon, Michel. "The Role of Lay People in the Production and Dissemination of S
 
 Coleman, Gabriella. "The Political Agnosticism of Free and Open Source Software and the Inadvertent Politics of Contrast." *Anthropological Quarterly* 77 (2004): 507-519.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262083645) Hess, David, Steve Breyman, Nancy Campbell, and Brian Martin. "Science, Technology, and Social Movements." In [*Handbook of Science and Technology Studies*](https://mitpress.mit.edu/9780262083645). 3rd ed. Edited by Hackett, et al. Cambridge, MA: MIT Press, 2007, pp. 473-98. ISBN: 9780262083645.
+{{% resource_link "bde4fbe1-54a7-4564-908b-2efb7f7c8098" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Hess, David, Steve Breyman, Nancy Campbell, and Brian Martin. "Science, Technology, and Social Movements." In {{% resource_link "bde4fbe1-54a7-4564-908b-2efb7f7c8098" "*Handbook of Science and Technology Studies*" %}}. 3rd ed. Edited by Hackett, et al. Cambridge, MA: MIT Press, 2007, pp. 473-98. ISBN: 9780262083645.
 
 Kahn, R., and D. Kellner. "Oppositional Politics and the Internet: A Critical/Reconstructive Approach." *Cultural Politics* 1 (2005): 75-100.
 
@@ -473,9 +473,9 @@ Meikle, Graham. *Future Active: Media Activism and the Internet*. London, Englan
 
 Pfaffenberger, B. "The Social Meaning of the Personal Computer: or, Why the Personal Computer Revolution was no Revolution." *Anthropological Quarterly* 61 (1989): 39-47.
 
-Schleiner, Anne-Marie. "[Parasitic Interventions: Game Patches and Hacker Art](http://www.opensorcery.net/patch.html)."
+Schleiner, Anne-Marie. "{{% resource_link "7d275455-e4dc-4373-9e1f-5fc48e021389" "Parasitic Interventions: Game Patches and Hacker Art" %}}."
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262701112) Turkle, Sherry. "Hackers: Loving the Machine for Itself." In [*The Second Self: Computers and the Human Spirit*](https://mitpress.mit.edu/9780262701112). Cambridge, MA: MIT Press, 2005. ISBN: 9780262701112.
+{{% resource_link "90ef2fb0-7435-4482-b19d-5bb29e75397c" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Turkle, Sherry. "Hackers: Loving the Machine for Itself." In {{% resource_link "90ef2fb0-7435-4482-b19d-5bb29e75397c" "*The Second Self: Computers and the Human Spirit*" %}}. Cambridge, MA: MIT Press, 2005. ISBN: 9780262701112.
 
 Turner, Fred. *From Counterculture to Cyberculture: Stewart Brand, the Whole Earth Network, and the Rise of Digital Utopianism*. Chicago, IL: University of Chicago Press, 2007. ISBN: 9780226817422.
 
