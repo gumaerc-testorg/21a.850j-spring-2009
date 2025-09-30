@@ -49,11 +49,11 @@ Orr, Jackie. Chapter 3 in _Panic Diaries: A Genealogy of Panic Disorder_. Durham
 
 Fox Keller, Evelyn. "Booting up Baby." In Riskin, J. _Genesis Redux: Essays in the History and Philosophy of Artificial Life_. Chicago, IL: University of Chicago Press, 2007, pp. 334-345. ISBN: 9780226720814.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262512626) Taylor, T. L. [_Play Between Worlds: Exploring Online Gaming Culture_](https://mitpress.mit.edu/9780262512626). Cambridge, MA: MIT Press, 2009, introduction, pp. 1-19; chapter 4, pp. 93-124. ISBN: 9780262512626.
+{{% resource_link "d1815979-7df2-4327-9241-cb31ad406075" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Taylor, T. L. {{% resource_link "d1815979-7df2-4327-9241-cb31ad406075" "_Play Between Worlds: Exploring Online Gaming Culture_" %}}. Cambridge, MA: MIT Press, 2009, introduction, pp. 1-19; chapter 4, pp. 93-124. ISBN: 9780262512626.
 
 ### Recommended
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262550284) Edwards, Paul. [_The Closed World: Computers and the Politics of Discourse in Cold War America_](https://mitpress.mit.edu/9780262550284). Cambridge, MA: MIT Press, 1997. ISBN: 9780262550284.
+{{% resource_link "a0a4093b-b9be-42c1-8537-c710b7c369cb" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Edwards, Paul. {{% resource_link "a0a4093b-b9be-42c1-8537-c710b7c369cb" "_The Closed World: Computers and the Politics of Discourse in Cold War America_" %}}. Cambridge, MA: MIT Press, 1997. ISBN: 9780262550284.
 
 Helmreich, Stefan. _Silicon Second Nature: Culturing Artificial Life in a Digital World_. Berkeley, CA: University of California Press, 2000. ISBN: 9780520208001.
 
